@@ -1,6 +1,6 @@
 # 💫 About Me:
 hi there i am Anish yadav<br>
-🔭 I’m currently working on machine learning and deep learning<br>👯 I’m looking to collaborate on machine learning<br>🤝 I’m looking for help with machine learning and mloops<br>🌱 I’m currently learning data structures and algorithms and computer virion<br>💬 Ask me about technology<br>⚡ Fun fact you learn everything first time
+🔭 I’m currently working on machine learning and deep learning<br>👯 I’m looking to collaborate on machine learning<br>🤝 I’m looking for help with machine learning and mloops<br>🌱 I’m currently learning data structures and algorithms and computer vision<br>💬 Ask me about technology<br>⚡ Fun fact you learn everything first time
 
 
 ## 🌐 Socials:
