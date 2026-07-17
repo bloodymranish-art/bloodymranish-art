@@ -1,8 +1,37 @@
-# 💫 About Me:
-hi there i am Anish yadav<br>
-🔭 I’m currently working on machine learning and deep learning<br>👯 I’m looking to collaborate on machine learning<br>🤝 I’m looking for help with machine learning and mloops<br>🌱 I’m currently learning data structures and algorithms and computer vision<br>💬 Ask me about technology<br>⚡ Fun fact you learn everything first time
+### 💫 About Me:
+Hi there, I'm **Anish Yadav** 👋 — a 3rd-year B.Tech CSE student at IIIT Bhopal (Class of 2027).
 
+- 🔭 I'm currently working on **Machine Learning**, **Deep Learning**, and **Backend Engineering**
+- 🏗️ I enjoy designing **scalable backend systems** and **distributed architectures**
+- 🌱 I'm currently learning **Data Structures & Algorithms**, **Computer Vision**, and **System Design**
+- 👯 I'm looking to collaborate on **Machine Learning** and **Backend/System Design** projects
+- 🤝 I'm looking for help with **Machine Learning**, **MLOps**, and **System Design**
+- 💬 Ask me about **Technology**, **Backend Systems**, and **System Design**
+- ⚡ Fun fact: **I learn everything fast the first time**
 
+---
+
+### 💼 Experience
+- **SWE Backend Intern @ Mintzy** — Built Python backend systems powering production AI agent workflows
+
+### 🚀 Highlight Projects
+- **Distributed Rate Limiter** — Python/FastAPI/Redis based distributed rate limiting system (system design focus)
+- **Paytm Sentinel** — 6-model ML ensemble for UPI fraud detection, 97% accuracy on 26K+ transactions
+- **RAG Chatbot** — Retrieval-augmented chatbot built with LangChain, FAISS, Groq & Streamlit
+
+---
+
+### 🏆 Competitive Programming
+- Codeforces Specialist (peak rating **1455**)
+- CodeChef max rating **1700** — Global Rank 61 in Round 225
+- AIR **114** in NEST
+
+---
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-yadav-2a0971291)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishyadavcse128@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bloodymranish-art)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an8shyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bloodymranish@gmail.com) 
 
